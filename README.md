@@ -10,3 +10,8 @@ Este formato permite crear actividades en las que el alumno debe completar deter
 Nuevo tipo de ejercicio interactivo que permite crear actividades de relación entre elementos mediante flechas. El creador puede configurar diferentes columnas de elementos y establecer las conexiones correctas entre ellos.
 
 Durante la resolución, el alumno debe seleccionar los elementos correspondientes y establecer las relaciones, que posteriormente pueden ser verificadas automáticamente.
+
+Resumen
+Tipo de ejercicio	Funcionalidad principal
+Ejercicio de matriz	Completar cuadros organizados en filas y columnas
+Unir con flechas	Relacionar elementos mediante conexiones o flechas
