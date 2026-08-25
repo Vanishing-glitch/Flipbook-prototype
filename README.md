@@ -18,7 +18,20 @@ Durante la resolución, el alumno debe seleccionar los elementos correspondiente
 
 Nuevo tipo de ejercicio que permite presentar una imagen acompañada de un campo de respuesta. El alumno debe observar la imagen y escribir la respuesta correspondiente en el cuadro ubicado debajo.
 
-Resumen
-Tipo de ejercicio	Funcionalidad principal
-Ejercicio de matriz	Completar cuadros organizados en filas y columnas
-Unir con flechas	Relacionar elementos mediante conexiones o flechas
+Este formato resulta especialmente útil para actividades de vocabulario, identificación de objetos, lugares, personas, animales, acciones y otros contenidos que puedan representarse visualmente.
+
+4. Ejercicio de selección múltiple con justificación
+
+Se incorporó una mejora al ejercicio de selección múltiple, permitiendo utilizarlo tanto para preguntas de selección múltiple como para actividades de Verdadero/Falso.
+
+El creador puede definir las opciones de respuesta y establecer cuál es la respuesta correcta. Además, se incorporó la posibilidad de habilitar un campo de justificación de manera independiente para cada pregunta.
+
+Cuando la justificación está habilitada, el alumno debe seleccionar una respuesta y posteriormente explicar o justificar su elección. De esta manera, la justificación puede ser requerida incluso cuando la respuesta seleccionada sea correcta, evitando que la aparición del campo revele información sobre la respuesta.
+
+5. Ejercicio de escribir respuesta
+
+Se incorporó un nuevo formato para actividades en las que el alumno debe escribir directamente la respuesta dentro de un espacio en blanco.
+
+El creador utiliza ___ para indicar los espacios que el alumno deberá completar y puede establecer una o varias respuestas aceptadas para cada espacio. Esto permite considerar diferentes respuestas válidas para una misma pregunta.
+
+Además, los campos de respuesta fueron diseñados para adaptarse al contenido introducido por el alumno. El campo puede expandirse horizontalmente y aumentar su altura cuando se escriben respuestas extensas, permitiendo visualizar correctamente todo el contenido ingresado.
