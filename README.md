@@ -35,3 +35,9 @@ Se incorporó un nuevo formato para actividades en las que el alumno debe escrib
 El creador utiliza ___ para indicar los espacios que el alumno deberá completar y puede establecer una o varias respuestas aceptadas para cada espacio. Esto permite considerar diferentes respuestas válidas para una misma pregunta.
 
 Además, los campos de respuesta fueron diseñados para adaptarse al contenido introducido por el alumno. El campo puede expandirse horizontalmente y aumentar su altura cuando se escriben respuestas extensas, permitiendo visualizar correctamente todo el contenido ingresado.
+
+V7: Se incorporó una nueva funcionalidad al ejercicio de Escribir respuesta que permite al alumno consultar las respuestas correctas después de realizar su primer intento.
+
+Una vez que el alumno comprueba sus respuestas por primera vez, se habilita la opción “Ver respuestas”. Al seleccionarla, las respuestas correctas se muestran junto al campo correspondiente, sin modificar ni reemplazar la respuesta ingresada por el alumno.
+
+En los casos en los que un espacio tenga múltiples respuestas aceptadas, se muestran todas las alternativas configuradas.
